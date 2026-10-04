@@ -23,9 +23,11 @@
 
 1) Install Python (If Not Already Installed) 
 
-2) 'apt update && apt upgrade' 
+2) ''apt update && apt upgrade''
 
-3) Run the script
+3) ''pip install yfinance && pip install pandas && pip install PySide6''
+  
+4) Run the script
 
 
 ## API Keys:
