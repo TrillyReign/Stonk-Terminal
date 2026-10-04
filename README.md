@@ -26,3 +26,8 @@
 2) 'apt update && apt upgrade' 
 
 3) Run the script
+
+
+## API Keys:
+
+To Get All The Features Of This Tool You Will Need An FMP API Key And A FED API Key. Both Of These Are Free. If You Don't Have Them You Will Only Be Missing SEC Filings In The News Feed & Some FED Data. The Terminal Will Still Work & All Models/Features Will Still Run Without Them. They Are Not Required. 
