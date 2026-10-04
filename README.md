@@ -15,3 +15,5 @@
 * 📑 **Macro Economics:** Macro Economic Information Right In The Dashboard Including Bonds, Commodities, FED, Indices, And More! 
 
 * 📈 **Tradingview Integration:"** Tradingview Integration For Easy Technical Analysis With Custom Indicators
+
+* 🪟 **Windows Resizable:** Easily Resize Windows, Or Overlap Them To Have Tabs To Switch Between
